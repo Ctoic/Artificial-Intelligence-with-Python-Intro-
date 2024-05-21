@@ -36,6 +36,9 @@ Explore advanced Python concepts and techniques. This section could include topi
 
 Encourage users to contribute to the repository. Provide guidelines on how to contribute, whether it's through bug reports, feature requests, or code contributions.
 
+## Books 
+Neural Network : http://neuralnetworksanddeeplearning.com/index.html
+
 ## License
 
 Specify the license under which the code in this repository is distributed.
